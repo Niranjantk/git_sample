@@ -1,1 +1,1 @@
-vere enthelum
+print("hello world how arey")
